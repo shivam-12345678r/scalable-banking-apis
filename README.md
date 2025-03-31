@@ -5,6 +5,7 @@ Automated Dispute Management (AI-driven classification & priority assignment)
 Full-Stack AI-Powered Customer Portal (Loan eligibility, account insights)
 Scalable Banking Transactions API (Debit, credit, balance inquiry with consistency)
 Rate Limiting for Secure Transactions (Prevent abuse, ensure fairness)
+
 Tech Stack
 Backend: Python (FastAPI, Flask)
 
